@@ -1,5 +1,5 @@
 # What is this?
-This repository can serve as a example for your own code, or can be used as a full solution.  
+This repository can serve as  a example for your own code, or can be used as a full solution.  
 The program will log into your account on epicgames.com and add all free games that it finds to your account.  
 It uses hCaptcha's own hCaptcha bypass mechanism B-).  
 No data is shared with third parties or me.  
